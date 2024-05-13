@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["PLAYING","MUSIC"];
+const statusMessages = ["﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽","🐕𝐒𝐞𝐧𝐳𝐙 𝐦𝐢𝐬 𝐏𝐞𝐫𝐫𝐚𝐬 𝐞𝐙","BERZERKclan 𒉭","💸 .xbz on t𝕠p","🔗 feds.lol/yyt","🔌💲@! yy estuvo aquí💲","Ẅ́͠Ȧ͉͚R̷̫̊Z̨͐ÓN̲Eͣ &̳͕́ MWÌ̪ͮI͖͜I̘ͣ"];
 
 
 let currentIndex = 0;
